@@ -4,7 +4,7 @@
 </div>
 
 ##
-<table width="100%">
+<table width="50%">
   <tr>
   <th>Languagens</th>
   <th>Job</th>
@@ -28,12 +28,13 @@
   <td width = "50%">
     
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raileal&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000&locale=pt-br" alt="Raileal" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raileal&show_icons=true&bg_color=0C0101&text_color=FFFFFF&title_color=0000FF&include_all_commits=true&count_private=true&locale=pt-br" alt="Raileal" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Raileal&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true&locale=pt-br" alt="Raileal" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Raileal&show_icons=true&bg_color=0C0101&text_color=FFFFFF&title_color=0000FF&include_all_commits=true&count_private=true&locale=pt-br" alt="Raileal" /></p>
   </td>
+ 
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
   <tr>
